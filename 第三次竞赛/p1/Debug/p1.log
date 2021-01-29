@@ -1,0 +1,4 @@
+﻿  p1.cpp
+C:\Users\44254\Desktop\数据结构\第三次竞赛\p1\p1.cpp(75,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\44254\Desktop\数据结构\第三次竞赛\p1\p1.cpp(69): warning C4715: “insert”: 不是所有的控件路径都返回值
+  p1.vcxproj -> C:\Users\44254\Desktop\数据结构\第三次竞赛\p1\Debug\p1.exe
